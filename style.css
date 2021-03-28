@@ -88,13 +88,15 @@ h1.top {
 }
 
 #profile {
-  max-width: 1320px;
   width: 100%;
   margin: 0 auto;
   padding-top: 100px;
+  padding-bottom: 50px;
+  background-color: #f2f4f6;
 }
 
 .profile_contents {
+  max-width: 1320px;
   width: 90%;
   margin: 0 auto;
   display: flex;
@@ -126,6 +128,7 @@ h1.top {
 #skill {
   padding-top: 100px;
   padding-bottom: 100px;
+  background-color: #f4f0e6;
 }
 
 .career_title {
@@ -195,7 +198,7 @@ li {
 
 .img {
   width: 100%;
-  height: 400px;
+  height: 500px;
   transition-duration: 0.5s;
 }
 
@@ -217,10 +220,12 @@ h4.text {
   width: 100%;
   padding-top: 100px;
   padding-bottom: 70px;
+  background-color:#e4d1d3;
 }
 
 .contact_contents {
   text-align: center;
+  padding: 0px 20px;
 }
 
 .icon02 {

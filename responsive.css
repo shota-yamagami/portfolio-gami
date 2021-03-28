@@ -28,7 +28,7 @@
   }
 
   .app_content {
-    width: 80%;
+    width: 70%;
     margin: 100px auto;
   }
 
@@ -38,6 +38,7 @@
 
   h4.text {
     height: 250px;
+    font-size: 18px;
   }
 
 @media (max-width: 760px) {
@@ -62,12 +63,12 @@
   }
 
   .skill_content {
-    width: 80%;
+    width: 70%;
     margin-top: 50px;
   }
 
   h4.text {
-    font-size: 16px;
+    font-size: 15px;
   }
 
 }
