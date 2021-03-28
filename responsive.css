@@ -72,3 +72,38 @@
   }
 
 }
+
+@media (max-width: 400px) {
+  .header {
+    height: 200px;
+    line-height: 200px;
+  }
+
+  h1.top {
+    font-size: 30px;
+  }
+
+  .list {
+    padding-right: -30px;
+  }
+
+  .list img {
+    display: none;
+  }
+
+  .titles img {
+    
+  }
+
+  .title {
+    font-size: 60px;
+  }
+
+  .skill_content {
+    width: 100%;
+  }
+
+  .app_content {
+    width: 100%;
+  }
+}
