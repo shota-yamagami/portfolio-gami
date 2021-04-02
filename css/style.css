@@ -57,6 +57,16 @@ h1.top {
   text-decoration: underline;
 }
 
+.app_title {
+  color: #014955;
+  text-decoration: none;
+}
+
+.app_title:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
 .twitter {
   color: #1f6ed4;
   opacity: 0.8;
